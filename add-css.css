@@ -1,0 +1,50 @@
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color:rgb(6, 144, 96)
+}
+
+.sidebar {
+    background-color: rgb(6, 144, 96);
+    color: white;
+}
+
+#About {
+    margin-bottom: 5%;
+}
+
+#About h2 {
+    padding: 5% 0 0 5%;
+    border-bottom: .5em solid rgb(6, 144, 96);
+}
+
+#about-content {
+    font-size: larger;
+    display: flex;
+    align-items: center;
+}
+
+#Features{
+    margin-bottom: 5%;
+}
+
+#Form-container {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+
+#form-container button {
+    align-self: center;
+    margin-bottom: 2%;
+}
+
+footer {
+    color: white;
+}
+
+i {
+    color:rgb(6, 144, 96)
+}
